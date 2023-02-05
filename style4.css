@@ -106,6 +106,7 @@ body {
       .dh-nav li a{
         display: block;
         width: 100%;
+        color:gray;
       }
       .dh-nav > #nav-check:not(:checked) ~ .dh-nav-links {
         height: 0px;
