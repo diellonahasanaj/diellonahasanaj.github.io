@@ -114,14 +114,6 @@ body {
         height: calc(100vh - 50px);
         overflow-y: auto;
       }
-      .dh-img{
-        max-width: 600px;
-        height: auto;
-      }
-      .dh-img button {
-        max-width: 600px;
-        height: auto;
-      }
     }
 
 img {
